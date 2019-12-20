@@ -1,0 +1,32 @@
+.top-text {
+    margin-bottom: 18rem;
+}
+
+.training {
+    font-size: 6rem;
+}
+
+.bottom-text {
+    background-color: rgb(128, 128, 128, .8);
+}
+
+.col,
+.bg-fade {
+    text-align: center;
+}
+
+#img1 {
+    background-image: url('./images/img_home_organizational.jpg');
+}
+
+#img2 {
+    background-image: url('./images/img_home_economical.jpg');
+}
+
+#img3 {
+    background-image: url('./images/img_home_programs.jpg');
+}
+
+.card-bg-c {
+    background-color: rgb(240, 255, 240, .8);
+}
